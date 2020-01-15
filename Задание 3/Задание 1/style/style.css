@@ -1,0 +1,32 @@
+      .lol {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+      
+      .in {
+        margin-bottom: 15px;
+      }
+      .in-1 {
+        width: 49%;
+        height: 120px;
+        background: orange;
+      }
+      .in-2 {
+        width: 100%;
+        height: 450px;
+        background: yellow;
+      }
+      
+      .in-3 {
+        width: 32%;
+        height: 250px;
+        background: blue;
+      }
+      
+      .in-4 {
+        width: 24%;
+        height: 80px;
+        background: red;
+        margin-bottom: 0;
+      }

@@ -1,0 +1,26 @@
+.lol {
+    border: 5px solid black;
+    width: 1880px;
+    height: 940px; 
+    position: relative;
+}
+.absolute {
+    position: absolute;
+    width: 50%;
+    height:500px;
+    background: red;
+  }
+  .red {
+    top: 0;
+    left: 0;
+  }
+  .green {
+    top: 440px;
+    left: 940px;
+    background: blue;
+  }
+  .blue {
+    top: 200px;
+    left: 500px;
+    background: green;
+  }
